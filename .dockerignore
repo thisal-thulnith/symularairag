@@ -1,0 +1,17 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+.env
+.pytest_cache
+.mypy_cache
+.ruff_cache
+vectorstore
+checkpoints.sqlite
+.idea
+.vscode
+.qodo
+.DS_Store
+README.md
